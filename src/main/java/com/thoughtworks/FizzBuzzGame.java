@@ -8,7 +8,9 @@ import java.util.stream.IntStream;
 
 
 public class FizzBuzzGame {
-    private List<String> results = new ArrayList<>();
+    private List<String> results = new ArrayList<>();  
+
+    
    // private Integer[] targets = new Integer[]{3,5,7};
     private List<Integer> targets = Arrays.asList(3,5,7);
     //private String[] marks = new String[]{"Fizz", "Buzz", "Whizz"};
